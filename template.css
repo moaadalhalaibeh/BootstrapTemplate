@@ -1,0 +1,277 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Josefin Sans",sans-serif;
+}
+.first-nav
+{
+    height: 50px;
+    color: #8F9093;
+    font-size: 14px;
+}
+.blue-line i
+{
+    color: white;
+}
+.blue-line
+{
+    background-color: #2D3092;
+}
+.second-nav a
+{
+    font-family: "Josefin Sans",sans-serif;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+}
+.second-nav a:hover
+{
+    text-decoration: none;
+    color: #2D3092;
+}
+.form-control
+{
+    border-radius: 50px;
+    height: 50px;
+    background-color: #F1F1F1;
+    margin-right: -10px !important;
+}
+.circle-button
+{
+    position: relative;
+    left: -35px;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color: #2D3092;
+    color: white;
+}
+.circle-button:hover
+{
+    background-color: #2D3092;
+}
+.image-section
+{
+    background-color: #BBDEFE;
+}
+.in-image-paragraph
+{ 
+    font-size: 48px;
+    font-weight: bold; 
+    color: #030431;
+
+}
+.get-start , .find-button
+
+{
+    height: 60px;
+    width: 170px;
+    border: none;
+    background-color: #2D3092;
+    color: white;
+}
+.get-start:hover , .find-button:hover
+{
+
+    background-color: #007bff;
+}
+.catgory .col-12
+{
+    text-align: center;
+}
+.catgory-paragraph
+{
+    font-size: 50px;
+    font-weight: bold; 
+    color: #030431; 
+}
+.catgory .card
+{
+    font-size: 20px;
+    color:#030431;
+}
+.catgory .card i
+{
+    font-size: 60px;
+    color: #2D3092;
+}
+.catgory .card a
+{
+    text-decoration: none;
+    color:#030431;
+}
+.catgory .card:hover 
+{
+    background-color: #2D3092;
+}
+.catgory .card:hover , .catgory .card:hover a ,.catgory .card:hover i
+{
+    color: white;
+}
+.find-button
+{
+    width: 250px;
+}
+.four-pic{
+    background-color: #F6FBFF;
+    height: 300px;
+    font-family: "Sen",sans-serif;
+    font-weight: bold;
+}
+.four-pic .col-3
+{
+text-align: center;
+font-size: 25px;
+}
+.four-pic i
+{
+    font-size: 80px;
+}
+.popular .col-6 i
+{
+    font-size: 15px;
+}
+.popular .col-6 span
+{
+    font-size: 12px;
+    color: #8F9093;
+}
+.card-icon 
+{
+color:#8F9093;
+font-size: 12px;
+}
+.popular .card-icon i {
+    color:#8F9093;
+}
+.popular
+{
+text-align: center;
+}
+.popular .card
+{
+    text-align: left;
+}
+.teacher
+{
+    text-align: center;
+    background-color: #2D3092;
+}
+#teacher-title{
+    color: white;
+}
+.teacher-button
+{
+    height: 60px;
+    width: 250px;
+    background-color: white;
+}
+.teacher-button:hover
+{
+   color: white;
+    background-color: black;
+}
+.know-section i
+{
+    color:#2D3092;
+    font-size: 30px;
+}
+.know-section col-7
+{
+    padding-top: 50px;
+}
+.slider
+{
+    text-align: center;
+    background-color: #2D3092;
+    color: white;
+    font-size: 25px;
+}
+.in-slider
+{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    width: 600px;
+    margin: auto;
+}
+.slider img
+{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.in-slider i , .in-slider span
+{
+font-size: 15px;
+}
+.news
+{
+    text-align: center;
+}
+.news .col-6
+{
+    text-align: left;
+    font-size: 15px;
+}
+.news a
+{
+    color: black;
+    font-size: 20px;
+}
+#bold-para{
+    font-size: 30px;
+    font-weight: bold;
+}
+.footer
+{
+    background-color: #0B0B1D;
+    padding-bottom: 30px;
+}
+.footer-field
+{
+    width: 100%;
+    height: 60px;
+    border-radius: 0px;
+}
+.footer-button
+{
+    background-color: #2D3092;
+    color: white;
+    width: 150px;
+}
+.footer p
+{
+font-size: 30px;
+color: white;
+}
+.footer-links p
+{
+    font-size: 18px;
+}
+.footer-links a
+{
+    text-decoration: none;
+font-size: 15px;
+color: gray;
+}
+.footer-links a:hover
+{
+color: white;
+}
+.footer-links
+{
+    padding-bottom: 100px;
+    border-bottom: 1px solid gray;
+}
+#copy-par
+{
+    color:gray;
+    margin: 0px;
+    text-align: center;
+font-size: 17px;
+}
+.p-c
+{
+    color: #2D3092;
+}
